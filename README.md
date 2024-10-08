@@ -9,8 +9,8 @@
 
 | Repository                                             | Description                                                                                           |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| [💼 WebTransact](https://github.com/hrhouma1/WebTransact) | Application simple de gestion **customer - account**.                                                  |
-| [🛠 WebTransact1](https://github.com/hrhouma1/WebTransact1) | Application **customer - card** avec **repository** et **controller** sans services.                   |
+| [💼 WebTransact](https://github.com/hrhouma1/WebTransact) | Cours de base - Application simple de gestion **customer - account**.                                                  |
+| [🛠 WebTransact1](https://github.com/hrhouma1/WebTransact1) | Cours avec une version améliorée - Application **customer - card** avec **repository** et **controller** sans services.                   |
 | [📊 WebTransact2](https://github.com/hrhouma1/WebTransact2) | Autre repository avec des améliorations spécifiques.                                                   |
 | [✨ WebTransactPlus1](https://github.com/hrhouma1/hrhouma1-WebTransactPlus1) | Version améliorée avec des fonctionnalités supplémentaires.                                            |
 | [🚚 WebTransact1-livraison-1-v1](https://github.com/hrhouma1/WebTransact1-livraison-1-v1) | Solution en mémoire - Version 1.                                                                       |
