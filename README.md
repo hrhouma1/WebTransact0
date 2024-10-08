@@ -13,10 +13,10 @@
 | [🛠 WebTransact1](https://github.com/hrhouma1/WebTransact1) | Cours avec une version améliorée - Application **customer - card** avec **repository** et **controller** sans services.                   |
 | [📊 WebTransact2](https://github.com/hrhouma1/WebTransact2) | Autre repository avec des améliorations spécifiques.                                                   |
 | [✨ WebTransactPlus1](https://github.com/hrhouma1/hrhouma1-WebTransactPlus1) | Version améliorée avec des fonctionnalités supplémentaires.                                            |
-| [🚚 WebTransact1-livraison-1-v1](https://github.com/hrhouma1/WebTransact1-livraison-1-v1) | Solution en mémoire (Liste sans BD) - Version 1.                                                                       |
-| [📦 WebTransact1-livraison-1-v2](https://github.com/hrhouma1/WebTransact1-livraison-1-v2) | Solution en mémoire (Liste sans BD) - Version 2.                                                                       |
-| [📥 WebTransact1-livraison-1-v3](https://github.com/hrhouma1/WebTransact1-livraison-1-v3) | Solution en mémoire (Liste sans BD) - Version 3.                                                                       |
-| [📤 WebTransact1-livraison-1-v4](https://github.com/hrhouma1/WebTransact1-livraison-1-v4) | Solution en mémoire (Liste sans BD) - Version 4.                                                                       |
+| [🚚 WebTransact1-livraison-1-v1](https://github.com/hrhouma1/WebTransact1-livraison-1-v1) | Solution en mémoire (*Liste sans BD*) - Version 1.                                                                       |
+| [📦 WebTransact1-livraison-1-v2](https://github.com/hrhouma1/WebTransact1-livraison-1-v2) | Solution en mémoire (*Liste sans BD*) - Version 2.                                                                       |
+| [📥 WebTransact1-livraison-1-v3](https://github.com/hrhouma1/WebTransact1-livraison-1-v3) | Solution en mémoire (*Liste sans BD*) - Version 3.                                                                       |
+| [📤 WebTransact1-livraison-1-v4](https://github.com/hrhouma1/WebTransact1-livraison-1-v4) | Solution en mémoire (*Liste sans BD*) - Version 4.                                                                       |
 | [🔄 WebTransact1-livraison-2](https://github.com/hrhouma1/WebTransact1-livraison-2) | L'application complète intégrant toutes les fonctionnalités développées dans les livraisons précédentes.|
 | [📚 h2-memoire-EX1](https://github.com/hrhouma1/h2-memoire-EX1) | Exemple avec base de données **H2** en mémoire.                                                        |
 | [📂 h2-persistance-EX2](https://github.com/hrhouma1/h2-persistance-EX2) | Exemple avec **H2** et persistance des données.                                                        |
